@@ -40,7 +40,7 @@
         
         <Button HorizontalAlignment="Left" Margin="53.8,163,0,0"
                 VerticalAlignment="Top" Width="156" Height="27"
-                Content="הזמן" Grid.Column="1" Name="btOrder"/>
+                Content="הזמן" Grid.Column="1" Name="btOrder" Click="btOrder_Click"/>
 
     </Grid>
 </UserControl>

@@ -51,6 +51,23 @@ namespace dotNet5780_03_3248_0250
             }
         }
 
+        private void btOrder_Click(object sender, RoutedEventArgs e)
+        {
+            List<DateTime> myList = MyCalendar.SelectedDates.ToList();
+            MyCalendar = CreateCalendar();
+            vbCalendar.Child = null;
+            vbCalendar.Child = MyCalendar;
+            addCurrentList(myList);
+            SetBlackOutDates();
+        }
+
+        private void addCurrentList(List<DateTime> tList)
+        {
+            foreach (DateTime d in tList)
+            {
+                CurrentHostingUnit.AllOrders.Add(d);
+            }
+        }
 
     }
 }
