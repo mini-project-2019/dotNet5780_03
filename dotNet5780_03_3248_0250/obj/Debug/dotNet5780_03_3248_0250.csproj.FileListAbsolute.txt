@@ -14,3 +14,19 @@ C:\Users\גלעד יוסף\Desktop\גלעד יוסף\לימודים - יתמל\�
 C:\Users\גלעד יוסף\Desktop\גלעד יוסף\לימודים - יתמל\כיתה יב\מיני פרויקט במערכות חלונות\פרויקט\dotNet5780_03_3248_0250\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.pdb
 C:\Users\גלעד יוסף\Desktop\גלעד יוסף\לימודים - יתמל\כיתה יב\מיני פרויקט במערכות חלונות\פרויקט\dotNet5780_03_3248_0250\dotNet5780_03_3248_0250\obj\Debug\HostingUnitUserControl.g.cs
 C:\Users\גלעד יוסף\Desktop\גלעד יוסף\לימודים - יתמל\כיתה יב\מיני פרויקט במערכות חלונות\פרויקט\dotNet5780_03_3248_0250\dotNet5780_03_3248_0250\obj\Debug\HostingUnitUserControl.baml
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\bin\Debug\dotNet5780_03_3248_0250.exe.config
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\bin\Debug\dotNet5780_03_3248_0250.exe
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\bin\Debug\dotNet5780_03_3248_0250.pdb
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.csprojAssemblyReference.cache
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\MainWindow.g.cs
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\HostingUnitUserControl.g.cs
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\App.g.cs
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250_MarkupCompile.cache
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250_MarkupCompile.lref
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\MainWindow.baml
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\HostingUnitUserControl.baml
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.g.resources
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.Properties.Resources.resources
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.csproj.GenerateResource.cache
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.exe
+C:\Users\גלעד יוסף\source\repos\dotNet5780_03\dotNet5780_03_3248_0250\obj\Debug\dotNet5780_03_3248_0250.pdb
