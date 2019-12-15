@@ -20,7 +20,7 @@ namespace dotNet5780_03_3248_0250
     /// </summary>
     public partial class HostingUnitUserControl : UserControl
     {
-        public HostingUnit CurrentHostingUnit;
+        public HostingUnit CurrentHostingUnit; // test
         public HostingUnitUserControl(HostingUnit hostingUnit)
         {
             InitializeComponent();
